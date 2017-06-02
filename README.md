@@ -12,4 +12,4 @@ sudo cp -R xfwm4-rgb/ /usr/share/themes/
 ```
 
 ### Screenshot
-![alt tag](https://raw.githubusercontent.com/amanuDigm/xfwm4-rgb/master/Screen.png)
+![alt tag](https://raw.githubusercontent.com/amanuDigm/xfwm4-rgb/master/Selection.png)
